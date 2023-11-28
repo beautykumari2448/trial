@@ -1,0 +1,65 @@
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "56d1cb78-4aa6-4d59-98a1-67fab3b12e5a": {
+          "type": "text",
+          "settings": {
+            "heading": "Contact Info",
+            "subtext": "<span>Address:<\/span> 71 Pennington Lane Vernon Rockville, CT 06066.<br>\n<span>Phone:<\/span> 0123-456-789<br>\n<span>E-mail: <\/span>demo@yourstore.com",
+            "Show_Social": true
+          }
+        },
+        "04fcd414-2568-4eeb-87d6-0f731eb3453d": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Information",
+            "menu": "footer"
+          }
+        },
+        "1c297812-d92a-423e-b47b-46f290868119": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Company",
+            "menu": "footer"
+          }
+        },
+        "55975ce8-cc18-4858-8361-0674e82f8753": {
+          "type": "NewsLetter",
+          "settings": {
+            "Newsletter_Heading": "Subscribe to our emails",
+            "SubText": "<p>stay up to date with new collections and exclusive offers.<\/p>",
+            "bg_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "56d1cb78-4aa6-4d59-98a1-67fab3b12e5a",
+        "04fcd414-2568-4eeb-87d6-0f731eb3453d",
+        "1c297812-d92a-423e-b47b-46f290868119",
+        "55975ce8-cc18-4858-8361-0674e82f8753"
+      ],
+      "settings": {
+        "color_scheme": "background-2",
+        "text_color": "#121212",
+        "newsletter_enable": false,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": true,
+        "show_social": false,
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "payment_enable": true,
+        "show_policy": false,
+        "margin_top": 36,
+        "padding_top": 32,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}

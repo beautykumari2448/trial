@@ -1,0 +1,547 @@
+{
+  "sections": {
+    "7a72bc2c-805e-4afd-85bc-e88ad563e731": {
+      "type": "slideshow",
+      "blocks": {
+        "template--18763908350274__7a72bc2c-805e-4afd-85bc-e88ad563e731-1682052578d4538338-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/luxury-nob-banner-image.png",
+            "heading": "Closet Clean",
+            "Color": "#121212",
+            "btn-bg-color": "#ff0000",
+            "btn-text-color": "#ffffff",
+            "heading_size": "h1",
+            "subheading": "Interested in selling with LUXURYSNOB without having to wait for your items to sell? Take advantage of our closet cleaning services.",
+            "custom_container": "",
+            "button_label": "Apply Now",
+            "link": "shopify:\/\/collections\/sample",
+            "button_style_secondary": false,
+            "box_align": "middle-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--18763908350274__7a72bc2c-805e-4afd-85bc-e88ad563e731-1682052578d4538338-1": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "heading": "Image slide",
+            "Color": "",
+            "btn-bg-color": "",
+            "btn-text-color": "",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "custom_container": "enter data",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--18763908350274__7a72bc2c-805e-4afd-85bc-e88ad563e731-1682052578d4538338-0",
+        "template--18763908350274__7a72bc2c-805e-4afd-85bc-e88ad563e731-1682052578d4538338-1"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "1dfb35cb-8d38-4f2b-a449-21c8d4010a16": {
+      "type": "custom_image_with_text",
+      "blocks": {
+        "template--18763908350274__1dfb35cb-8d38-4f2b-a449-21c8d4010a16-16822300129860a1cd-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Designer Bags",
+            "heading_size": "h1"
+          }
+        },
+        "template--18763908350274__1dfb35cb-8d38-4f2b-a449-21c8d4010a16-16822300129860a1cd-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, <\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--18763908350274__1dfb35cb-8d38-4f2b-a449-21c8d4010a16-16822300129860a1cd-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "shopify:\/\/collections\/sample"
+          }
+        }
+      },
+      "block_order": [
+        "template--18763908350274__1dfb35cb-8d38-4f2b-a449-21c8d4010a16-16822300129860a1cd-0",
+        "template--18763908350274__1dfb35cb-8d38-4f2b-a449-21c8d4010a16-16822300129860a1cd-1",
+        "template--18763908350274__1dfb35cb-8d38-4f2b-a449-21c8d4010a16-16822300129860a1cd-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/luxury-slideshow-img1.png",
+        "image1": "shopify:\/\/shop_images\/luxury-slideshow-img2.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "d953880b-6d7f-440b-90b7-1fed257ea1a4": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--18763908350274__d953880b-6d7f-440b-90b7-1fed257ea1a4-168206071249df8e4d-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo-gucci_1.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18763908350274__d953880b-6d7f-440b-90b7-1fed257ea1a4-168206071249df8e4d-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Bottega-Veneta-logo_1.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18763908350274__d953880b-6d7f-440b-90b7-1fed257ea1a4-168206071249df8e4d-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Christian-Dior-Logo_1.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "055123fe-1428-4675-8feb-3880985c489b": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hermes_1.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "8383aea1-9cce-48e5-9d63-ea2920705926": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Goyard-Logo-PNG_1.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "6404de19-2877-4506-9f3f-f20d02304805": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Christian-Dior-Logo_1.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18763908350274__d953880b-6d7f-440b-90b7-1fed257ea1a4-168206071249df8e4d-0",
+        "template--18763908350274__d953880b-6d7f-440b-90b7-1fed257ea1a4-168206071249df8e4d-1",
+        "template--18763908350274__d953880b-6d7f-440b-90b7-1fed257ea1a4-168206071249df8e4d-2",
+        "055123fe-1428-4675-8feb-3880985c489b",
+        "8383aea1-9cce-48e5-9d63-ea2920705926",
+        "6404de19-2877-4506-9f3f-f20d02304805"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "custom_marquee": true,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "5267f9e5-c355-49c2-b849-5b8cbc43a819": {
+      "type": "collection-list",
+      "blocks": {
+        "template--18763908350274__5267f9e5-c355-49c2-b849-5b8cbc43a819-168206342405e4e940-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "chanel",
+            "sub_title": "Shop Collection"
+          }
+        },
+        "template--18763908350274__5267f9e5-c355-49c2-b849-5b8cbc43a819-168206342405e4e940-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "ysl-bags",
+            "sub_title": "Shop Collection"
+          }
+        },
+        "template--18763908350274__5267f9e5-c355-49c2-b849-5b8cbc43a819-168206342405e4e940-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "summer-favorites",
+            "sub_title": "Shop Collection"
+          }
+        }
+      },
+      "block_order": [
+        "template--18763908350274__5267f9e5-c355-49c2-b849-5b8cbc43a819-168206342405e4e940-0",
+        "template--18763908350274__5267f9e5-c355-49c2-b849-5b8cbc43a819-168206342405e4e940-1",
+        "template--18763908350274__5267f9e5-c355-49c2-b849-5b8cbc43a819-168206342405e4e940-2"
+      ],
+      "settings": {
+        "Checkbox": true,
+        "title": "OUR COLLECTION",
+        "heading_size": "h1",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 80,
+        "padding_bottom": 36
+      }
+    },
+    "2d3b8193-37c4-4a61-9ff7-9643b3a09232": {
+      "type": "custom_featured-collection",
+      "blocks": {
+        "8068fe1d-8f5c-4593-b9d0-8cc2841ba7c3": {
+          "type": "button",
+          "settings": {
+            "button_label": "Bags",
+            "button_link": "shopify:\/\/collections\/men-s-catalog",
+            "Collection": "men-s-catalog"
+          }
+        },
+        "858fb31b-bf3b-4f2b-b959-a8df6f6a3130": {
+          "type": "button",
+          "settings": {
+            "button_label": "Apparels",
+            "button_link": "shopify:\/\/collections\/apparels",
+            "Collection": "apparels"
+          }
+        },
+        "096ebb6e-3da7-4356-9a31-a5639e822916": {
+          "type": "button",
+          "settings": {
+            "button_label": "acc",
+            "button_link": "",
+            "Collection": "sample"
+          }
+        },
+        "f4e08cdf-07b9-4165-a455-70f9c9592486": {
+          "type": "button",
+          "settings": {
+            "button_label": "Foote",
+            "button_link": "",
+            "Collection": "footwear"
+          }
+        }
+      },
+      "block_order": [
+        "8068fe1d-8f5c-4593-b9d0-8cc2841ba7c3",
+        "858fb31b-bf3b-4f2b-b959-a8df6f6a3130",
+        "096ebb6e-3da7-4356-9a31-a5639e822916",
+        "f4e08cdf-07b9-4165-a455-70f9c9592486"
+      ],
+      "settings": {
+        "title": "Men’s Catalog",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "",
+        "products_to_show": 10,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "bc6c6d11-bb49-43ed-a5ec-d6ebd4b36d1d": {
+      "type": "custom_collab_section",
+      "blocks": {
+        "template--18763908350274__bc6c6d11-bb49-43ed-a5ec-d6ebd4b36d1d-16823399065ba97f72-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/luxury-collab.png",
+            "heading": "Let’s Collab",
+            "Color": "",
+            "btn-bg-color": "#ff0000",
+            "btn-text-color": "#ffffff",
+            "heading_size": "h1",
+            "subheading": "We are a luxury resell consignment brand. We thrive in getting authentic vintage and luxury pieces for our clients.",
+            "custom_container": "<ul>\n<li>\n<span>%<\/span>Discount codes<\/li>\n<li>\n<svg width=\"16\" height=\"17\" viewbox=\"0 0 16 17\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<g clip-path=\"url(#clip0_158_3156)\">\n<path d=\"M13.8941 3.74423C13.5536 3.40356 13.1493 3.13333 12.7043 2.94895C12.2593 2.76458 11.7824 2.66968 11.3007 2.66968C10.8191 2.66968 10.3421 2.76458 9.89716 2.94895C9.45219 3.13333 9.0479 3.40356 8.7074 3.74423L8.00073 4.45089L7.29406 3.74423C6.60627 3.05643 5.67342 2.67003 4.70073 2.67003C3.72804 2.67003 2.79519 3.05643 2.1074 3.74423C1.4196 4.43202 1.0332 5.36487 1.0332 6.33756C1.0332 7.31025 1.4196 8.2431 2.1074 8.93089L2.81406 9.63756L8.00073 14.8242L13.1874 9.63756L13.8941 8.93089C14.2347 8.59039 14.505 8.1861 14.6893 7.74113C14.8737 7.29616 14.9686 6.81922 14.9686 6.33756C14.9686 5.8559 14.8737 5.37896 14.6893 4.93399C14.505 4.48902 14.2347 4.08473 13.8941 3.74423V3.74423Z\" stroke=\"white\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/g>\n<defs>\n<clippath id=\"clip0_158_3156\">\n<rect width=\"16\" height=\"16\" fill=\"white\" transform=\"translate(0.000488281 0.670898)\"><\/rect>\n<\/clippath>\n<\/defs>\n<\/svg>Product sneak peeks <\/li>\n<li>\n<svg width=\"17\" height=\"17\" viewbox=\"0 0 17 17\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<g clip-path=\"url(#clip0_158_3150)\">\n<path d=\"M14.2602 8.32129V14.988H3.59351V8.32129\" stroke=\"white\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<path d=\"M15.5933 4.98796H2.26001V8.32129H15.5933V4.98796Z\" stroke=\"white\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<path d=\"M8.92676 14.988V4.98796\" stroke=\"white\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<path d=\"M8.92668 4.98795H5.92668C5.48465 4.98795 5.06073 4.81236 4.74817 4.4998C4.4356 4.18723 4.26001 3.76331 4.26001 3.32128C4.26001 2.87926 4.4356 2.45533 4.74817 2.14277C5.06073 1.83021 5.48465 1.65462 5.92668 1.65462C8.26001 1.65462 8.92668 4.98795 8.92668 4.98795Z\" stroke=\"white\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<path d=\"M8.92676 4.98795H11.9268C12.3688 4.98795 12.7927 4.81236 13.1053 4.4998C13.4178 4.18723 13.5934 3.76331 13.5934 3.32128C13.5934 2.87926 13.4178 2.45533 13.1053 2.14277C12.7927 1.83021 12.3688 1.65462 11.9268 1.65462C9.59342 1.65462 8.92676 4.98795 8.92676 4.98795Z\" stroke=\"white\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/g>\n<defs>\n<clippath id=\"clip0_158_3150\">\n<rect width=\"16\" height=\"16\" fill=\"white\" transform=\"translate(0.926758 0.321289)\"><\/rect>\n<\/clippath>\n<\/defs>\n<\/svg>Free Product <\/li>\n<li>\n<span>$<\/span>Sales Commission <\/li>\n<\/ul>",
+            "button_label": "Apply now",
+            "link": "shopify:\/\/collections\/sample",
+            "button_style_secondary": true,
+            "box_align": "top-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--18763908350274__bc6c6d11-bb49-43ed-a5ec-d6ebd4b36d1d-16823399065ba97f72-0"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "e1fecb5c-e8dd-4b86-bffa-08c0ca4c579e": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18763908350274__e1fecb5c-e8dd-4b86-bffa-08c0ca4c579e-16823217664384e327-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Accessories",
+            "heading_size": "h1"
+          }
+        },
+        "template--18763908350274__e1fecb5c-e8dd-4b86-bffa-08c0ca4c579e-16823217664384e327-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, <\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--18763908350274__e1fecb5c-e8dd-4b86-bffa-08c0ca4c579e-16823217664384e327-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "View All",
+            "button_link": "shopify:\/\/collections"
+          }
+        }
+      },
+      "block_order": [
+        "template--18763908350274__e1fecb5c-e8dd-4b86-bffa-08c0ca4c579e-16823217664384e327-0",
+        "template--18763908350274__e1fecb5c-e8dd-4b86-bffa-08c0ca4c579e-16823217664384e327-1",
+        "template--18763908350274__e1fecb5c-e8dd-4b86-bffa-08c0ca4c579e-16823217664384e327-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/image-with-text-img1.png",
+        "image2": "shopify:\/\/shop_images\/image-with-text-img5.png",
+        "image3": "shopify:\/\/shop_images\/image-with-text-img2.png",
+        "image4": "shopify:\/\/shop_images\/image-with-text-img3.png",
+        "image5": "shopify:\/\/shop_images\/image-with-text-img4.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 72,
+        "padding_bottom": 100
+      }
+    },
+    "df9c89e5-b16a-4270-8266-f441d9fed767": {
+      "type": "collection-tabs",
+      "disabled": true,
+      "blocks": {
+        "3e39b5dd-08d5-4b6e-84de-4984112c18f0": {
+          "type": "block",
+          "settings": {
+            "collection1": "apparels"
+          }
+        }
+      },
+      "block_order": [
+        "3e39b5dd-08d5-4b6e-84de-4984112c18f0"
+      ],
+      "settings": {
+        "title": "Featured collection",
+        "heading_size": "h1",
+        "products_to_show": 9,
+        "columns_desktop": 4,
+        "full_width": false,
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "56cdd977-2306-4fce-8871-da40565b1155": {
+      "type": "slideshow",
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "f03273f3-778b-4f65-9793-947a8df0d70d": {
+      "type": "featured-blog",
+      "settings": {
+        "sub-title": "Discover",
+        "heading": "Our Blog",
+        "heading_size": "h1",
+        "blog": "news",
+        "post_limit": 4,
+        "columns_desktop": 3,
+        "color_scheme": "background-1",
+        "show_image": true,
+        "show_date": false,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "ffe094a7-0172-4829-80ea-cef6c6609333": {
+      "type": "custom_multicolumn_2",
+      "blocks": {
+        "template--18763908350274__ffe094a7-0172-4829-80ea-cef6c6609333-1682347634d00b96d5-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fast-delivery_1.png",
+            "title": "Free Delivery!",
+            "text": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18763908350274__ffe094a7-0172-4829-80ea-cef6c6609333-1682347634d00b96d5-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/quality_1.png",
+            "title": "Quality Product",
+            "text": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18763908350274__ffe094a7-0172-4829-80ea-cef6c6609333-1682347634d00b96d5-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Consignment_1.png",
+            "title": "Consignment",
+            "text": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1d15ed8b-7280-4de9-9bd8-02d346501633": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/email_1.png",
+            "title": "Customer Support",
+            "text": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18763908350274__ffe094a7-0172-4829-80ea-cef6c6609333-1682347634d00b96d5-0",
+        "template--18763908350274__ffe094a7-0172-4829-80ea-cef6c6609333-1682347634d00b96d5-1",
+        "template--18763908350274__ffe094a7-0172-4829-80ea-cef6c6609333-1682347634d00b96d5-2",
+        "1d15ed8b-7280-4de9-9bd8-02d346501633"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "7a72bc2c-805e-4afd-85bc-e88ad563e731",
+    "1dfb35cb-8d38-4f2b-a449-21c8d4010a16",
+    "d953880b-6d7f-440b-90b7-1fed257ea1a4",
+    "5267f9e5-c355-49c2-b849-5b8cbc43a819",
+    "2d3b8193-37c4-4a61-9ff7-9643b3a09232",
+    "bc6c6d11-bb49-43ed-a5ec-d6ebd4b36d1d",
+    "e1fecb5c-e8dd-4b86-bffa-08c0ca4c579e",
+    "df9c89e5-b16a-4270-8266-f441d9fed767",
+    "56cdd977-2306-4fce-8871-da40565b1155",
+    "f03273f3-778b-4f65-9793-947a8df0d70d",
+    "ffe094a7-0172-4829-80ea-cef6c6609333"
+  ]
+}

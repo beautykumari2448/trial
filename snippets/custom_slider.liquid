@@ -1,0 +1,57 @@
+
+
+<!-- <script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js" integrity="sha512-XtmMtDEcNz2j7ekrtHvOVR4iwwaD6o/FUJe6+Zq+HgcCsk3kj4uSQQR8weQ2QVj1o0Pk6PwYLohm206ZzNfubg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css" rel="stylesheet" />
+{{ 'slick.css' | asset_url | stylesheet_tag }}
+ 
+<script>
+ $(document).ready(function() {
+    $('.custom-slider').each(function() {
+        let desktop_slide = $(this).attr('data-slide');
+        let mobile_slide = $(this).attr('mobile-slide');
+        console.log(desktop_slide, mobile_slide);
+        $(this).not('.slick-initialized').slick({
+            dots: true,
+            arrows: true,
+            infinite: true,
+            slidesToShow: 3,
+            slidesToScroll:3,
+            autoplay: false,
+            responsive: [{
+                    breakpoint: 1024,
+                    settings: {
+                        slidesToShow: mobile_slide,
+                        slidesToScroll: 1,
+                        infinite: true,
+                        dots: true
+                    }
+                },
+                {
+                    breakpoint: 600,
+                    settings: {
+                        slidesToShow: mobile_slide,
+                        slidesToScroll: 1
+                    }
+                },
+                {
+                    breakpoint: 480,
+                    settings: {
+                        slidesToShow: mobile_slide,
+                        slidesToScroll: 1
+                    }
+                }
+            ]
+        });
+    });
+   $('body').on('click','.custom-nav-controls li.nav-item',function(){
+     let status = $(this).attr('data-attr');
+     $('.custom-nav-controls li.nav-item').removeClass("active");
+     $(this).addClass('active');
+     $('.custom-data').removeClass('active');
+     $(`#${ status }`).addClass('active');
+  })
+});
+  
+</script> -->
+
